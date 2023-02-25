@@ -1,0 +1,23 @@
+h4 {
+   color: #A9A9A9;
+   padding-left: 20px;
+}
+div {
+   color: #000000;
+   margin-left: 20px;
+}
+.image {
+  background-image: url("img/MARS1.png");
+  width: 500px;
+  height: 50px;
+}
+h2 {
+   margin-left: 170px;
+   padding-top: 7px;
+}
+h3 {
+   margin-left: 100px;
+}
+table {
+   width: 600px;
+}
